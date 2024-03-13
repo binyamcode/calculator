@@ -3,6 +3,9 @@ using namespace std;
 int main(){
     char op;
 double number1,number2;
+//Creating calculator using switch case:
+cout <<"CALCULATOR\n";
+cout <<"----------------------------------------------\n";
 cout <<"Enter the operator '-','+','*' or'/'\n";
 cin>>op;
 switch(op){
